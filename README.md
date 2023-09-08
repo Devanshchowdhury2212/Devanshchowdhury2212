@@ -3,7 +3,7 @@
 **I am Devansh Chowdhury, an experienced Computer science student with a strong background in Machine Learning, Data structures & algorithms, and Web development from IIIT GWALIOR.
 As a highly motivated and detail-oriented individual, I possess a passion for solving complex problems and creating innovative solutions. With hands-on experience in developing software applications and a deep understanding of programming languages such as Python ,MYSQL, C++ along with good command over multiple technologies.
 I am confident in my ability to contribute to any software engineering team. My strong communication skills and ability to collaborate effectively with team members make me an excellent fit for any SDE position.
-You can reach out to me at devanshchowdhury@gmail.com or find me on GitHub and LinkedIn.
+You can reach out to me at devanshchowdhury@gmail.com or find me on [GitHub](https://github.com/Devanshchowdhury2212) and [LinkedIn](https://www.linkedin.com/in/devansh-chowdhury-a41318192/).
 
 Here are some ideas to get you started:
 
